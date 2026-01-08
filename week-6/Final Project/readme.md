@@ -5,4 +5,4 @@
 
 
 
-![homepage](./week-6/Final%20Project/screenshots/homepage.jpg)
+![homepage](./screenshots/homepage.jpg)
